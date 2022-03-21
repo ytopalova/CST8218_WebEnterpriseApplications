@@ -1,0 +1,14 @@
+cst8218\topa0005\entity\Sprite.class
+com\mycompany\yuliasprite\SpriteController.class
+com\mycompany\yuliasprite\util\PaginationHelper.class
+service\AbstractFacade.class
+com\mycompany\yuliasprite\SpriteController$SpriteControllerConverter.class
+com\mycompany\yuliasprite\SpriteFacade.class
+cst8218\topa0005\game\SpriteGame$1.class
+cst8218\topa0005\game\SpriteGame.class
+com\mycompany\yuliasprite\AbstractFacade.class
+com\mycompany\yuliasprite\JAXRSConfiguration.class
+com\mycompany\yuliasprite\util\JsfUtil.class
+service\SpriteFacadeREST.class
+com\mycompany\yuliasprite\SpriteController$1.class
+cst8218\topa0005\game\GameSession.class
