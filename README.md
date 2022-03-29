@@ -1,2 +1,3 @@
-# CST8218_WebEnterpriseApplications
+CST8218
+WebEnterpriseApplications
 Assignment 1
