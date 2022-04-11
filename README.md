@@ -1,3 +1,3 @@
 CST8218
 WebEnterpriseApplications
-Assignment 1
+Assignments 1&2
