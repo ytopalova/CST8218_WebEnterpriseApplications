@@ -1,0 +1,10 @@
+com\mycompany\lab\ContactController.class
+com\mycompany\lab\util\PaginationHelper.class
+com\mycompany\lab\ContactController$1.class
+com\mycompany\lab\ContactFacade.class
+com\mycompany\lab\JAXRSConfiguration.class
+com\mycompany\lab\AbstractFacade.class
+com\mycompany\lab\resources\JavaEE8Resource.class
+com\mycompany\lab\util\JsfUtil.class
+com\mycompany\lab\ContactController$ContactControllerConverter.class
+com\mycompany\lab\Contact.class
